@@ -32,6 +32,7 @@ $ git log
 $ git log -p -1
 hit q
 $ git diff
+$ git rm --cashed waste.html
 
 
 
