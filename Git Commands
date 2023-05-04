@@ -25,6 +25,8 @@ $ touch contact.html
 $ touch moument.html
 $git add -A
 $ git commit -m "Added More Html"
+$ clear 
+$ git checkout contact.html
 
 
 
