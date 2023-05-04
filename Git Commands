@@ -28,6 +28,13 @@ $ git commit -m "Added More Html"
 $ clear 
 $ git checkout contact.html
 $ git checkout -f
+$ git log
+$ git log -p -1
+hit q
+
+
+
+
 
 
 
