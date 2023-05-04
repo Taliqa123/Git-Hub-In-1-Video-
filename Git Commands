@@ -1,0 +1,35 @@
+$ git config --global user.name Taliqa
+$ git config --global user.email taliqaejaz10@gmail.com
+$ git init
+$ ls -lart
+$ git status
+
+******************Info **********************
+Untracked (Add the File)
+Unmodified  
+Modified (Edit  the File)
+Staged (Stage the File)
+***********Fininsh *************************
+
+
+$ git add index.html
+$ git status
+$ git commit
+
+hit i 
+then write Initial commit
+then hi Esc :wq and then enter  
+$ git status
+$ touch about.html
+$ touch contact.html
+$ touch moument.html
+$git add -A
+
+
+
+
+
+
+
+
+
