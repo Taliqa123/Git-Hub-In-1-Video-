@@ -31,6 +31,8 @@ $ git checkout -f
 $ git log
 $ git log -p -1
 hit q
+$ git diff
+
 
 
 
