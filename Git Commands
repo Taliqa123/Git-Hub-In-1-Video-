@@ -36,6 +36,12 @@ $ git rm --cashed waste.html
 $ git rm waste.html
 $ git status -s
 $ touch .gitignore
+$ git branch feature1
+$ git branch 
+$ git status
+$ git checkout master
+$ gti checkout feature1
+$ git log -p -1
 
 
 
