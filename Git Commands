@@ -23,7 +23,7 @@ $ git status
 $ touch about.html
 $ touch contact.html
 $ touch moument.html
-$git add -A
+$ git add -A
 $ git commit -m "Added More Html"
 $ clear 
 $ git checkout contact.html
@@ -35,6 +35,9 @@ $ git diff
 $ git rm --cashed waste.html
 $ git rm waste.html
 $ git status -s
+$ touch .gitignore
+
+
 
 
 
